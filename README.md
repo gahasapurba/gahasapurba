@@ -1,11 +1,9 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> HORAS, Hello There !
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40"/><br>HORAS, Hello There !
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
 
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=gahasapurba&color=red)&nbsp;
 [![GitHub gahasapurba](https://img.shields.io/github/followers/gahasapurba?label=follow&style=social)](https://github.com/gahasapurba)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 ### [gahasapurba.com](http://gahasapurba.com)
 
 <!--
