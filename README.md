@@ -1,5 +1,10 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40"/><br>HORAS, Hello There !
 
+I am an IT student currently studying at Del Institute of Technology. I have a huge interest in IT field especially in
+website development. I'm using several programming languages such as PHP, JavaScript, and SQL to build
+websites. I also have a good knowledge using PHP framework such as Laravel. I'm able to work independently
+or in a team, responsible, and learn new things quickly.
+
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*g3zcRSjUu50p7_1brc9c2Q.gif)
 
 ![profile count](https://komarev.com/ghpvc/?username=gahasapurba&color=red)&nbsp;
@@ -9,10 +14,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gahasapurba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahasapurba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gahasa's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahasapurba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gahasa's GitHub Stats" />
 </a>
 <a href="https://github.com/gahasapurba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahasapurba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gahasa's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gahasapurba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gahasa's GitHub Stats" />
 </a>
 
 <!-- Resources -->
