@@ -1,6 +1,6 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40"/><br>HORAS, Hello There !
 
-I am an IT student currently studying at Del Institute of Technology. I have a huge interest in IT field especially in
+I am an IT Enthusiast that currently work as Back End Developer. I have a huge interest in IT field especially in
 website development. I'm using several programming languages such as PHP, JavaScript, and SQL to build
 websites. I also have a good knowledge using PHP framework such as Laravel. I'm able to work independently
 or in a team, responsible, and learn new things quickly.
