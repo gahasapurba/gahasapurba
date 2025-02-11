@@ -13,9 +13,9 @@ I am an IT Enthusiast that currently work as Software Engineer. I have a huge in
 <a href="https://github.com/gahasapurba">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahasapurba&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Gahasa's GitHub Stats" />
 </a>
-<a href="https://github.com/gahasapurba">
+<!-- <a href="https://github.com/gahasapurba">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gahasapurba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gahasa's GitHub Stats" />
-</a>
+</a> -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
